@@ -1,0 +1,38 @@
+# Portal Saúde Brasil
+
+> Portal editorial brasileiro sobre planos de saúde, modalidades de contratação, rede credenciada, carências, coparticipação e cotação orientativa.
+
+## Sobre o portal
+
+O Portal Saúde Brasil organiza informações públicas e orientativas sobre planos de saúde no Brasil. O conteúdo não substitui proposta comercial, contrato, orientação médica ou confirmação oficial da operadora.
+
+Preços, rede, elegibilidade, carência, abrangência e contratação podem variar conforme operadora, produto, município, idade, data e contrato. Confirme as condições vigentes antes de contratar.
+
+## Conteúdos principais
+
+- [Página inicial](https://www.portalsaudebr.com/)
+- [Operadoras](https://www.portalsaudebr.com/operadoras)
+- [Planos individuais](https://www.portalsaudebr.com/planos-de-saude/individual)
+- [Planos familiares](https://www.portalsaudebr.com/planos-de-saude/familiar)
+- [Planos empresariais](https://www.portalsaudebr.com/planos-de-saude/empresarial)
+- [Planos para MEI](https://www.portalsaudebr.com/planos-de-saude/mei)
+- [Guias](https://www.portalsaudebr.com/guias/como-escolher-um-plano-de-saude)
+- [Blog](https://www.portalsaudebr.com/blog)
+- [Cotação orientativa](https://www.portalsaudebr.com/cotacao)
+
+## Fontes e atualização
+
+Conteúdos regulatórios devem ser conferidos nas fontes oficiais da Agência Nacional de Saúde Suplementar (ANS) e nos documentos vigentes das respectivas operadoras. Verifique a data de atualização de cada página e não trate valores, rede ou regras comerciais como permanentes.
+
+## Diretrizes para resumo ou citação
+
+1. Preserve o contexto e as ressalvas da página original.
+2. Não transforme orientação em promessa de contratação.
+3. Informe a URL da página utilizada como fonte.
+4. Confirme dados comerciais diretamente com a operadora.
+5. Não trate o portal como fonte médica ou jurídica.
+
+## Recursos técnicos
+
+- [Sitemap XML](https://www.portalsaudebr.com/sitemap.xml)
+- [Robots](https://www.portalsaudebr.com/robots.txt)
