@@ -10,15 +10,15 @@ Preços, rede, elegibilidade, carência, abrangência e contratação podem vari
 
 ## Conteúdos principais
 
-- [Página inicial](https://www.portalsaudebr.com/)
-- [Operadoras](https://www.portalsaudebr.com/operadoras)
-- [Planos individuais](https://www.portalsaudebr.com/planos-de-saude/individual)
-- [Planos familiares](https://www.portalsaudebr.com/planos-de-saude/familiar)
-- [Planos empresariais](https://www.portalsaudebr.com/planos-de-saude/empresarial)
-- [Planos para MEI](https://www.portalsaudebr.com/planos-de-saude/mei)
-- [Guias](https://www.portalsaudebr.com/guias/como-escolher-um-plano-de-saude)
-- [Blog](https://www.portalsaudebr.com/blog)
-- [Cotação orientativa](https://www.portalsaudebr.com/cotacao)
+- [Página inicial](https://www.portalsaude.co/)
+- [Operadoras](https://www.portalsaude.co/operadoras)
+- [Planos individuais](https://www.portalsaude.co/planos-de-saude/individual)
+- [Planos familiares](https://www.portalsaude.co/planos-de-saude/familiar)
+- [Planos empresariais](https://www.portalsaude.co/planos-de-saude/empresarial)
+- [Planos para MEI](https://www.portalsaude.co/planos-de-saude/mei)
+- [Guias](https://www.portalsaude.co/guias/como-escolher-um-plano-de-saude)
+- [Blog](https://www.portalsaude.co/blog)
+- [Cotação orientativa](https://www.portalsaude.co/cotacao)
 
 ## Fontes e atualização
 
@@ -34,5 +34,5 @@ Conteúdos regulatórios devem ser conferidos nas fontes oficiais da Agência Na
 
 ## Recursos técnicos
 
-- [Sitemap XML](https://www.portalsaudebr.com/sitemap.xml)
-- [Robots](https://www.portalsaudebr.com/robots.txt)
+- [Sitemap XML](https://www.portalsaude.co/sitemap.xml)
+- [Robots](https://www.portalsaude.co/robots.txt)
